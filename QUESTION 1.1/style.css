@@ -1,0 +1,42 @@
+h2 {
+   font-family: sans-serif;
+   margin: absolute;
+}
+
+p {
+   font-family: sans-serif;
+   margin: absolute;
+}
+
+body {
+   background-color: #0088EE;
+   margin: 85px;
+}
+
+div {
+   background-color: white;
+   border: 3px solid #005588;
+   background-repeat: no-repeat;
+}
+
+li {
+   font-family: sans-serif;
+   float: left;
+   padding: 20px;
+   text-align: center;
+   list-style-type: none;
+   font-weight: bold;
+   text-indent: 1em;
+}
+
+.pics {
+   float: right;
+   height: 100px;
+   width: 100px;
+}
+
+p2 {
+   text-align: center;
+   font-family: sans-serif;
+   font-weight: bold;
+}
